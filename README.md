@@ -70,4 +70,4 @@ This is a personal learning repository, but suggestions and ideas are welcome!
 ## 📬 Connect
 https://img.shields.io/badge/GitHub-Mr--Syntax1-181717?style=flat-square&logo=github
 
-<p align="center"> <i>Built with ⚛️ React, 🎨 Tailwind, and ☕ lots of focus.</i><br/> <i>⭐ Star this repo if you find it useful — it keeps me motivated!</i> </p> ```
+<p align="center"> <i>Built with ⚛️ React, 🎨 Tailwind, and ☕ lots of focus.</i><br/> <i>⭐ Star this repo if you find it useful — it keeps me motivated!</i> </p>
