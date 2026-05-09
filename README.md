@@ -3,7 +3,6 @@
 [![React](https://img.shields.io/badge/React-19.x-61DAFB?style=flat-square&logo=react&logoColor=white&labelColor=20232A)](https://reactjs.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.x-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white&labelColor=0F172A)](https://tailwindcss.com/)
 [![Vite](https://img.shields.io/badge/Vite-5.x-646CFF?style=flat-square&logo=vite&logoColor=white&labelColor=1E1E2E)](https://vitejs.dev/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](LICENSE)
 
 > **A curated collection of purposeful, bite-sized front-end applications** — each built to isolate and master a specific React concept, styled with Tailwind CSS for rapid, consistent UI development.
 
