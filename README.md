@@ -57,7 +57,7 @@ npm run dev
 
 ## 🤝 Contributing
 
-# This is a personal learning repository, but suggestions and ideas are welcome!
+### This is a personal learning repository, but suggestions and ideas are welcome!
 
 1.Fork the project
 
