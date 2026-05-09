@@ -69,6 +69,4 @@ npm run dev
 
 5.Open a Pull Request
 
-## 📬 Connect
-
 <p align="center"> <i>Built with ⚛️ React, 🎨 Tailwind, and ☕ lots of focus.</i><br/> <i>⭐ Star this repo if you find it useful — it keeps me motivated!</i> </p>
