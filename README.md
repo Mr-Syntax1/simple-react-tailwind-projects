@@ -19,17 +19,17 @@
 
 ## 🚀 Quick Start
 
-### Clone the repository
+### 1.Clone the repository
 ``` 
 git clone https://github.com/Mr-Syntax1/simple-react-tailwind-projects.git
 cd simple-react-tailwind-projects
 ```
-### Enter any project folder (example: 01-to-do-list)
+### 2.Enter any project folder (example: 01-to-do-list)
 ``` 
 cd 01-to-do-list
 ```
 
-### Install dependencies and run
+### 3.Install dependencies and run
 ``` 
 npm install
 npm run dev
