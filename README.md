@@ -37,6 +37,7 @@ npm run dev
 ---
 
 ## 📚 Projects Index
+
 | # | Project Name | Description | Path |
 |---|---|---|---|
 | 01 | To-Do-List | Add, toggle, delete tasks with localStorage persistence — `useState`, `useEffect`, array manipulation | `./01-To-do-list` |
@@ -55,7 +56,8 @@ npm run dev
 
 
 ## 🤝 Contributing
-This is a personal learning repository, but suggestions and ideas are welcome!
+
+# This is a personal learning repository, but suggestions and ideas are welcome!
 
 1.Fork the project
 
@@ -68,6 +70,5 @@ This is a personal learning repository, but suggestions and ideas are welcome!
 5.Open a Pull Request
 
 ## 📬 Connect
-![GitHub](https://img.shields.io/github/followers/Mr-Syntax1?style=flat-square&logo=github)
 
 <p align="center"> <i>Built with ⚛️ React, 🎨 Tailwind, and ☕ lots of focus.</i><br/> <i>⭐ Star this repo if you find it useful — it keeps me motivated!</i> </p>
